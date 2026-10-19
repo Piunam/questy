@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Piunam/questy/tree/master/0242-valid-anagram) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Piunam/questy/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piunam/questy/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Indexed Tree
@@ -22,5 +23,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Piunam/questy/tree/master/0242-valid-anagram) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piunam/questy/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Piunam/questy/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
