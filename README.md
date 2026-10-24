@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Piunam/questy/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Piunam/questy/tree/master/0242-valid-anagram) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Piunam/questy/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piunam/questy/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Piunam/questy/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Piunam/questy/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Piunam/questy/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Piunam/questy/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Piunam/questy/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
