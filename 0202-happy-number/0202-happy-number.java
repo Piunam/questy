@@ -1,19 +1,15 @@
 class Solution {
-    public int Digit_sum(int a){
-        int sum =0;
-        while(a>0)
-        {int k = a%10;
-        a= a/10;
-        sum = sum + (k * k);}
-        return sum;
-
-    }
     public boolean isHappy(int n) {
-        Set <Integer> s = new HashSet<>();
-        while(n != 1 && !s.contains(n)){
-            s.add(n);
-            n = Digit_sum(n);
+        while (n != 1 && n != 4) {
+            int sum = 0;
+            while (n > 0) {
+                int digit = n % 10;
+                sum += digit * digit;
+                n /= 10;
+            }
+            n = sum;
         }
-        return n==1;
+        return n == 1;
+
     }
 }
