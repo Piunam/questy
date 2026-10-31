@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Piunam/questy/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Piunam/questy/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Piunam/questy/tree/master/0242-valid-anagram) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Piunam/questy/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piunam/questy/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Piunam/questy/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Piunam/questy/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Piunam/questy/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Piunam/questy/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Piunam/questy/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Piunam/questy/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Piunam/questy/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
