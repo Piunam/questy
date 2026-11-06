@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Piunam/questy/tree/master/0014-longest-common-prefix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Piunam/questy/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [2747-count-zero-request-servers](https://github.com/Piunam/questy/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Piunam/questy/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piunam/questy/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Piunam/questy/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Piunam/questy/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Piunam/questy/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Piunam/questy/tree/master/0242-valid-anagram) |
+| [2747-count-zero-request-servers](https://github.com/Piunam/questy/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Piunam/questy/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piunam/questy/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Indexed Tree
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Piunam/questy/tree/master/0242-valid-anagram) |
+| [2747-count-zero-request-servers](https://github.com/Piunam/questy/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piunam/questy/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Piunam/questy/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/Piunam/questy/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
