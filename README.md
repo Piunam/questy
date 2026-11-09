@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piunam/questy/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Piunam/questy/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Piunam/questy/tree/master/3665-twisted-mirror-path-count) |
+| [3838-weighted-word-mapping](https://github.com/Piunam/questy/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Piunam/questy/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Piunam/questy/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Piunam/questy/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Piunam/questy/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Piunam/questy/tree/master/0242-valid-anagram) |
+| [3838-weighted-word-mapping](https://github.com/Piunam/questy/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Piunam/questy/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Piunam/questy/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Piunam/questy/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3838-weighted-word-mapping](https://github.com/Piunam/questy/tree/master/3838-weighted-word-mapping) |
 ## Ordered Set
 |  |
 | ------- |
