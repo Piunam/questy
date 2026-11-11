@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Piunam/questy/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Piunam/questy/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Piunam/questy/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Piunam/questy/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Piunam/questy/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Piunam/questy/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
