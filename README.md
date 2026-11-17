@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Piunam/questy/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Piunam/questy/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Piunam/questy/tree/master/0242-valid-anagram) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Piunam/questy/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3838-weighted-word-mapping](https://github.com/Piunam/questy/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Piunam/questy/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Piunam/questy/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Piunam/questy/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Piunam/questy/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Piunam/questy/tree/master/0202-happy-number) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Piunam/questy/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String Matching
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Piunam/questy/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Piunam/questy/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/Piunam/questy/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Piunam/questy/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Piunam/questy/tree/master/3882-minimum-xor-path-in-a-grid) |
